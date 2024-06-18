@@ -1,4 +1,4 @@
-package com.aluracurso.frases_peliculas.series;
+package com.aluracurso.frases_peliculas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
