@@ -1,4 +1,4 @@
-package com.aluracurso.frases_peliculas.series;
+package com.aluracurso.frases_peliculas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
